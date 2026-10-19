@@ -1,0 +1,25 @@
+{
+  "product": "URLStrip",
+  "channel": "desktop",
+  "version": "1.4.0",
+  "build": 30,
+  "releaseDate": "2026-10-19",
+  "sourceCommit": "92307a1b1d183e2d9f28bed3f58fc980062b2756",
+  "sourceTree": "75237d89f0f35f4b6ec16364b7fa6b9d9715920d",
+  "artifacts": {
+    "macOS": {
+      "filename": "URLStrip-1.4.0-Build30-macOS-universal.dmg",
+      "bytes": 6185189,
+      "sha256": "5b7831c06d04a02a1a02729e8f90b9f3e081a8b4898df1fcf2e5a6b73ac0113b"
+    },
+    "windows": {
+      "filename": "URLStrip-1.4.0-Build30-windows-x64-setup.exe",
+      "bytes": 4446768,
+      "sha256": "77ac47e1f61a6b33d780b2a4f695fa99108be3759c72b5ca5bbeac77493a3182"
+    }
+  },
+  "verificationLimitations": [
+    "Windows catalog tray navigation was waived and remains unverified.",
+    "The Windows transient live pending indicator was waived and remains unverified."
+  ]
+}
